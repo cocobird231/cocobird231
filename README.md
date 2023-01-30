@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cocobird231
 - 👀 I’m interested in finding myself
-- 🌱 I’m currently studying at National Taipei University of Technology, Taiwan
-- 💞️ Research Field: DIP, Computer Vision, Machine Learning, 3D Data Processing
+- 🌱 Assistant engineer at MIRDC in Taiwan (2021~)
+- 💞️ Research Field: Computer Vision, Machine Learning, 3D Data Processing, ROS2
 - 📫 Contact me : cocobird231@gmail.com
 
 <!---
